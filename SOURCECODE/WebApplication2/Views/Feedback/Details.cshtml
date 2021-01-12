@@ -1,0 +1,58 @@
+﻿@model Entities.eFeedback
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h3><span class="badge badge-info">CHI TIẾT PHẢN HỒI</span></h3>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã đơn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.feedbackID)
+        </dd>
+
+        <dt>
+            Tên khách hàng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.customerName)
+        </dd>
+
+        <dt>
+            Tựa đề
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.title)
+        </dd>
+
+        <dt>
+            Nội dung
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.content)
+        </dd>
+
+        <dt>
+            Thời gian gửi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateCreate)
+        </dd>
+    </dl>
+</div>
+<hr />
+<p>
+    @Html.ActionLink("← Quay trở lại danh sách tour", "Index")
+</p>
+

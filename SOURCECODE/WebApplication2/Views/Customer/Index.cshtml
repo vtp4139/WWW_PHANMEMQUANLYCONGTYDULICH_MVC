@@ -1,0 +1,27 @@
+﻿@model Entities.eCustomer
+
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h4><span class="badge badge-success">Thông tin tài khoản</span></h4>
+<div class="card mb-3">
+    <div class="card-header">
+        <h5>@Model.customerName</h5>
+    </div>
+    <div class="card-body">
+        <ul class="list-inline">
+            <li class="list-inline-item m-3"><b>Mã khách hàng: </b>@Model.customerID</li>
+            <li class="list-inline-item m-3"><b>Số CMND: </b>@Model.IDCard</li>
+        </ul>
+        <ul class="list-inline">
+            <li class="list-inline-item m-3"><b>Số điện thoại: </b>@Model.phone</li>
+            <li class="list-inline-item m-3"><b>Địa chỉ: </b>@Model.address</li>
+        </ul>
+    </div>
+</div>
+<p>
+    @Html.ActionLink("Chỉnh sửa thông tin", "Edit", new { id = Model.customerID }, new { @class = "btn btn-primary" })
+</p>
+

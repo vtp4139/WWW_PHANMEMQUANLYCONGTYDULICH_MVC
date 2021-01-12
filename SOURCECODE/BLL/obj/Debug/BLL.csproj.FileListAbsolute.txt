@@ -1,0 +1,75 @@
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\BLL.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\BLL.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\DAL.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\Entities.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\DAL.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\DAL.dll.config
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\Entities.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\obj\Debug\BLL.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\obj\Debug\BLL.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2\BLL\bin\Debug\Entities.dll.config
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\BLL.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\BLL.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\DAL.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\Entities.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\DAL.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\DAL.dll.config
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\Entities.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\Entities.dll.config
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\obj\Debug\BLL.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\BLL\obj\Debug\BLL.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\BLL.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\BLL.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\DAL.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\Entities.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\EntityFramework.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\DAL.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\DAL.dll.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\Entities.dll.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\bin\Debug\EntityFramework.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\obj\Debug\BLL.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\BLL\obj\Debug\BLL.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\BLL.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\BLL.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\DAL.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\Entities.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\EntityFramework.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\DAL.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\DAL.dll.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\Entities.dll.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\EntityFramework.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\BLL.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\BLL.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\DAL.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\Entities.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\EntityFramework.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\DAL.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\DAL.dll.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\Entities.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\Entities.dll.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\bin\Debug\EntityFramework.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\BLL\obj\Debug\BLL.pdb

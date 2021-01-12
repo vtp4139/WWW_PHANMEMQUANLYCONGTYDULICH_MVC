@@ -1,0 +1,73 @@
+﻿@model Entities.eTour
+
+@{
+    ViewBag.Title = "Chi tiết tour";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+<!-- Page Content -->
+<div class="container">
+
+    <!-- Portfolio Item Heading -->
+    <h3 class="my-4">
+        @Model.tourName
+        @if (Model.tourType == true)
+        {
+            <smal><span class="badge badge-success">Trong nước</span></smal>
+        }
+        else
+        {
+            <smal><span class="badge badge-success">Nước ngoài</span></smal>
+        }
+    </h3>
+    <h4><span class="badge badge-danger"> @Html.DisplayFor(modelItem => Model.price)</span></h4>
+    <!-- Portfolio Item Row -->
+    <div class="row">
+
+        <div class="col-md-8">
+            <img class="img-thumbnail" style="height:400px;width:700px" src="~/Images/@Model.Picture" alt="">
+        </div>
+
+        <div class="col-md-4">
+            <h3 class="my-3"><span class="badge badge-info">Giới thiệu tour</span></h3>
+            <div class="card">
+                <div class="card-body">@Model.Describe</div>
+            </div>
+            <h3 class="my-3"><span class="badge badge-light">Thông tin tour</span></h3>
+            <div class="card">
+                <div class="card-body">
+                    <ul class="list-inline">
+                        <li class="list-inline-item m-2"><b class="text-info">Mã tour: </b>@Model.tourID</li>
+                        <li class="list-inline-item m-2"><b class="text-info">Ngày đi: </b>@Model.departureDate</li>
+                        <li class="list-inline-item m-2"><b class="text-info">Nơi khởi hành: </b>@Model.startAddress</li>
+                    </ul>
+                    <ul class="list-inline">
+                        <li class="list-inline-item m-2"><b class="text-info">Số ngày: </b>@Model.numberOfDay</li>
+                        <li class="list-inline-item m-2"><b class="text-info">Số lượng: </b>@Model.numSeat</li>
+                        <li class="list-inline-item m-2"><b class="text-info">Số ghế trống: </b>@Model.emptySeat</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+<br /><br />
+@if (Session["id"] == null)
+{
+    <a href="@Url.Action("Login", "Home", new { id = Model.tourID })" class="btn btn-outline-primary btn-lg btn-block">
+        <img src="\Images\cart.png" height="16" width="20" />&nbsp;
+        <span>
+            <strong>Đặt tour</strong>
+        </span>
+    </a>
+}
+else
+{
+    <a href="@Url.Action("CreateBill", "Home", new { id = Model.tourID })" class="btn btn-outline-primary btn-lg btn-block">
+        <img src="\Images\cart.png" height="16" width="20" />&nbsp;
+        <span>
+            <strong>Đặt tour</strong>
+        </span>
+    </a>
+}

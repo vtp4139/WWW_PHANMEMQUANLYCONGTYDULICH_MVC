@@ -1,0 +1,104 @@
+﻿@model Entities.eTour
+
+@{
+    ViewBag.Title = "Chi tiết tour";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h3><span class="badge badge-info">CHI TIẾT TOUR</span></h3>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tourID)
+        </dd>
+
+        <dt>
+            Tên tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tourName)
+        </dd>
+
+        <dt>
+            Thời gian khởi hành
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.departureDate)
+        </dd>
+
+        <dt>
+            Thời gian đi (ngày)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numberOfDay)
+        </dd>
+
+        <dt>
+            Địa điểm khởi hành
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.startAddress)
+        </dd>
+
+        <dt>
+            Giá tiền (VNĐ)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.price)
+        </dd>
+
+        <dt>
+            Số lượng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numSeat)
+        </dd>
+
+        <dt>
+            Chỗ đã đặt
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.emptySeat)
+        </dd>
+
+        <dt>
+            Chỗ đã đặt
+        </dt>
+
+        @if (Model.tourType == true)
+        {
+            <dd>
+                Trong nước
+            </dd>
+        }
+        else
+        {
+            <dd>
+                Nước ngoài
+            </dd>
+        }           
+    </dl>
+</div>
+<hr />
+<p>
+    <span class="badge badge-warning" style="width:60px">@Html.ActionLink("Sửa", "Edit", new { id = Model.tourID }, new { @style = "color:white;" })</span>
+    <span class="badge badge-danger" style="width:60px"> @Html.ActionLink("Xóa", "Delete", new { id = Model.tourID }, new { @style = "color:white;" })</span>
+
+</p>
+<p>
+    @Html.ActionLink("← Quay trở lại danh sách tour", "Index")
+</p>
+

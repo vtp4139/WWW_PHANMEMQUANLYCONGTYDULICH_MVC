@@ -1,0 +1,285 @@
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\WebApplication2.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\WebApplication2.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\csc.exe
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\csi.exe
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Net.Http.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\BLL.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Entities.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\EntityFramework.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\WebGrease.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\DAL.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\BLL.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Entities.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Entities.dll.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\EntityFramework.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\DAL.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\DAL.dll.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\PagedList.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\PagedList.Mvc.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\PagedList.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\WebApplication2\bin\PagedList.Mvc.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebApplication2.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebApplication2.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csc.exe
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csi.exe
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Net.Http.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\BLL.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Entities.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.Mvc.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebGrease.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\DAL.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\BLL.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Entities.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Entities.dll.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.Mvc.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\DAL.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\DAL.dll.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebApplication2.dll.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebApplication2.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebApplication2.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csc.exe
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csc.exe.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csc.rsp
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csi.exe
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csi.exe.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\csi.rsp
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.AppContext.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Console.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.Compression.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Net.Http.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Net.Sockets.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.ValueTuple.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\vbc.exe
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\vbc.exe.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\vbc.rsp
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Antlr3.Runtime.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\BLL.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Entities.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.SqlServer.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Newtonsoft.Json.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.Mvc.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Helpers.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Mvc.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Optimization.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Razor.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Razor.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\WebGrease.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\DAL.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\BLL.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Entities.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Entities.dll.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\EntityFramework.SqlServer.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\PagedList.Mvc.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Helpers.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Mvc.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Optimization.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.Razor.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\System.Web.WebPages.Razor.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Newtonsoft.Json.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Antlr3.Runtime.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\DAL.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\bin\DAL.dll.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\GUI.csproj.CopyComplete
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\WebApplication2.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\WebApplication2\obj\Debug\WebApplication2.pdb

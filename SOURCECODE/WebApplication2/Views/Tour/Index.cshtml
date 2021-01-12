@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Entities.eTour>
+
+@{
+    ViewBag.Title = "Danh sách tour";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<head>
+    <link href="@Url.Content("~/Content/TourManager.css")" rel="stylesheet" type="text/css" />
+</head>
+
+
+<h2><span class="badge badge-primary">QUẢN LÝ DANH SÁCH TOUR</span></h2></br>
+
+@if (@ViewBag.error != null)
+{
+    <div class="alert alert-success">
+        <strong>@ViewBag.error</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+    </br>
+<p>
+    @Html.ActionLink("Đăng tour", "Create", null, new { @class = "btn btn-outline-success"})
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>Mã tour</th>
+        <th>Tên tour</th>
+        <th>Thời gian khởi hành</th>
+        <th>Thời gian đi (ngày)</th>
+        <th>Địa điểm khởi hành</th>
+        <th>Giá tiền (VNĐ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>Số lượng</th>
+        <th>Chỗ đã đặt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>Loại tour</th>
+        <th>&nbsp;</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td scope="row">@Html.DisplayFor(modelItem => item.tourID)</td>
+            <td> @Html.DisplayFor(modelItem => item.tourName)</td>
+            <td> @Html.DisplayFor(modelItem => item.departureDate)</td>
+            <td> @Html.DisplayFor(modelItem => item.numberOfDay)</td>
+            <td> @Html.DisplayFor(modelItem => item.startAddress)</td>
+            <td> @Html.DisplayFor(modelItem => item.price)</td>
+            <td> @Html.DisplayFor(modelItem => item.numSeat)</td>
+            <td> @Html.DisplayFor(modelItem => item.emptySeat)</td>
+
+            @if (item.tourType == true)
+            {
+                <td style="color:green">Trong nước</td>
+            }
+            else
+            {
+                <td style="color:blue">Nước ngoài</td>
+            }
+
+            <td>
+                <span class="badge badge-warning" style="width:50px"> @Html.ActionLink("Sửa", "Edit", new { id = item.tourID }, new { @style = "color:white;" })</span>
+                <span class="badge badge-info" style="width:50px">@Html.ActionLink("Chi tiết", "Details", new { id = item.tourID }, new { @style = "color:white;" })</span>
+                <span class="badge badge-danger" style="width:50px"> @Html.ActionLink("Xóa", "Delete", new { id = item.tourID }, new { @style = "color:white;" })</span>
+            </td>
+        </tr>
+    }
+
+</table>

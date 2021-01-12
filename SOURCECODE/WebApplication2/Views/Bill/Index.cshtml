@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Entities.eBill>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h2><span class="badge badge-primary">QUẢN LÝ DANH SÁCH HÓA ĐƠN</span></h2></br>
+<hr />
+
+@if (@ViewBag.error != null)
+{
+    <div class="alert alert-success">
+        <strong>@ViewBag.error</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+    </br>
+<table class="table table-striped">
+    <tr>
+        <th>Mã hóa đơn</th>
+        <th>Tên khách hàng</th>
+        <th>Tên tour đăng ký</th>
+        <th>Thời gian đăng ký</th>
+        <th>&nbsp;</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td scope="row">@Html.DisplayFor(modelItem => item.billID)</td>
+            <td> @Html.DisplayFor(modelItem => item.Customer.customerName)</td>
+            <td> @Html.DisplayFor(modelItem => item.Tour.tourName)</td>
+            <td> @Html.DisplayFor(modelItem => item.dateCreate)</td>          
+            <td>
+                <span class="badge badge-info">@Html.ActionLink("Chi tiết", "Details", new { id = item.billID }, new { @style = "color:white;" })</span>
+                <span class="badge badge-danger"> @Html.ActionLink("Xóa", "Delete", new { id = item.billID }, new { @style = "color:white;" })</span>
+            </td>
+        </tr>
+    }
+</table>
+
+

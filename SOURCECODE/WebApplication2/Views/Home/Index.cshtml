@@ -1,0 +1,130 @@
+﻿@model IEnumerable< Entities.eTour>
+@using PagedList;
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Trang chủ";
+}
+
+<!--TÌM KIẾM-->
+<!------------------------------------------------------------------------>
+<h5>Xin mời Quý khách chọn thông tin cần tìm kiếm</h5>
+@using (Html.BeginForm("Search", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="row">
+        <div class="col-md-3">
+            <select class="form-control" name="StartAddress">
+                <option selected name="kh_1">Nơi khởi hành</option>
+                <option value="Hồ Chí Minh">Hồ Chí Minh</option>
+                <option value="Hà Nội">Hà Nội</option>
+            </select>
+        </div>
+        <div class="col-md-3">
+            <select class="form-control" name="Price">
+                <option selected>Giá tiền</option>
+                <option value="1">Dưới 2 triệu</option>
+                <option value="2">Từ 2tr - 5tr</option>
+                <option value="3">Từ 5tr - 10tr</option>
+                <option value="4">Trên 10 triệu</option>
+            </select>
+        </div>
+        <div class="col-md-3">
+            <input class="form-control" type="date" name="date"/>
+        </div>
+        <div class="col-md-3">
+            <input type="submit" class="btn btn-outline-primary" value="Tìm kiếm" />
+        </div>
+    </div>
+}
+<!------------------------------------------------------------------------>
+<br /><br />
+
+      <div class="row">
+          <div class="col-md-4">
+              <div class="list-group">
+                  <a href="#" class="list-group-item list-group-item-action active">
+                      Phân loại
+                  </a>
+                  @Html.ActionLink("Du lịch trong nước", "TourType", "Home", new { i = 1 }, new { @class = "list-group-item list-group-item-action" })
+                  @Html.ActionLink("Du lịch nước ngoài", "TourType", "Home", new { i = 2 }, new { @class = "list-group-item list-group-item-action" })
+              </div>
+          </div>
+
+          <div class="col-md-8">
+              <h3><span class="badge badge-info">Cùng du lịch với TravelIUH</span></h3>
+              <p>
+                  Chương trình Du lịch do Công ty truyền thông TravelIUH cung cấp với nhiều điểm đến du lịch mới hấp dẫn. Các tour du lịch được khởi hành từ Hà Nội, Tp. Hồ Chí Minh với nhiều phương tiện phù hợp cho chuyến đi của du khách được thuận lợi nhất. Dưới dây là các Tour Du lịch trong nước giá tốt nhất 2020 được mở bán hàng ngày với nhiều chương trình khuyến mãi hấp dẫn. Để mua được chương trình tour với giá tốt nhất, Quý khách hàng vui lòng đăng ký đặt tour trực tuyến tại Website TravelIUH. Rất hân hạnh được đón tiếp!. Với lịch trình dày, khởi hành đúng thời gian cam kết, TravelIUH là công ty lữ hành uy tín nhất hiện nay tại Việt Nam, luôn sẵn sàng phục vụ du khách mọi lúc, mọi nơi, đảm bảo tính chuyên nghiệp và chất lượng dịch vụ tốt nhất thị trường.
+              </p>
+          </div>         
+      </div>
+<hr />
+
+<div class="container py-5">
+
+    <h3><span class="badge badge-info">DANH SÁCH CÁC TOUR DU LỊCH CỦA CÔNG TY</span></h3>
+    <hr />
+    <!-- LOAD DANH SÁCH TOUR - CARD -->
+    @foreach (var item in Model)
+    {
+        <div class="card w-75">
+            <div class="card-header">
+                <h5>@Html.DisplayFor(modelItem => item.tourName)</h5>
+            </div>
+            <img class="img-thumbnail" src="~/Images/@item.Picture" alt="Card image cap" style="width:350px;height: 200px">
+            <div class="card-body">
+                <h5 class="card-title"><span class="badge badge-danger"> @Html.DisplayFor(modelItem => item.price)</span></h5>
+                <hr />
+                @if (item.tourType == true)
+                {
+                    <ul class="list-inline">
+                        <li class="list-inline-item m-2"><span class="badge badge-success">Trong nước</span></li>
+                    </ul>
+                }
+                else
+                {
+                    <ul class="list-inline">
+                        <li class="list-inline-item m-2"><span class="badge badge-info">Nước ngoài</span></li>
+                    </ul>
+                }
+                <ul class="list-inline">
+                    <li class="list-inline-item m-2"><b class="text-info">Mã tour: </b>@Html.DisplayFor(modelItem => item.tourID)</li>
+                    <li class="list-inline-item m-2"><b class="text-info">Ngày đi: </b>@Html.DisplayFor(modelItem => item.departureDate)</li>
+                    <li class="list-inline-item m-2"><b class="text-info">Nơi khởi hành: </b>@Html.DisplayFor(modelItem => item.startAddress)</li>
+                </ul>
+                <ul class="list-inline">
+                    <li class="list-inline-item m-2"><b class="text-info">Số ngày: </b>@Html.DisplayFor(modelItem => item.numberOfDay)</li>
+                    <li class="list-inline-item m-2"><b class="text-info">Số lượng: </b>@Html.DisplayFor(modelItem => item.numSeat)</li>
+                    <li class="list-inline-item m-2"><b class="text-info">Số ghế trống: </b>@Html.DisplayFor(modelItem => item.emptySeat)</li>
+                </ul>
+                <hr />
+                <!-- NÚT XỬ LÝ -->
+
+                @if (Session["id"] == null)
+                {
+                    <a href="@Url.Action("Login", "Home", new { id = item.tourID })" class="btn btn-primary">
+                        <img src="\Images\cart.png" height="16" width="20" />&nbsp;
+                        <span>
+                            <strong>Đặt tour</strong>
+                        </span>
+                    </a>
+                }
+                else
+                {
+                    <a href="@Url.Action("CreateBill", "Home", new { id = item.tourID })" class="btn btn-primary">
+                        <img src="\Images\cart.png" height="16" width="20" />&nbsp;
+                        <span>
+                            <strong>Đặt tour</strong>
+                        </span>
+                    </a>
+                }
+                <a href="@Url.Action("Details", "Home", new { id = item.tourID })" class="btn btn-warning">
+                    <img src="\Images\list.png" height="16" width="20" />&nbsp;
+                    <span>
+                        <strong>Chi tiết</strong>
+                    </span>
+                </a>
+            </div>
+        </div>
+        @:</br></br>
+    }
+</div>

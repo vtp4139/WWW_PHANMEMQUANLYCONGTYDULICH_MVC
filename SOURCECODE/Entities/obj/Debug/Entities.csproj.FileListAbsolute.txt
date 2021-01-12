@@ -1,0 +1,60 @@
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\Entities.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\Entities.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\obj\Debug\Entities.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\obj\Debug\Entities.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\Entities.dll.config
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\TEST\WebApplication2\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\Entities.dll.config
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\Entities.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\Entities.pdb
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\obj\Debug\Entities.dll
+C:\Users\MyPC\Desktop\TEST\WebApplication2_CodeFirst\Entities\obj\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\Entities.dll.config
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\Entities.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\EntityFramework.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\EntityFramework.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\obj\Debug\Entities.dll
+C:\Users\vtpga\Desktop\WWW_BAITAPLON\Entities\obj\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\Entities.dll.config
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\Entities.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.dll
+C:\Users\vtpga\Desktop\Nam_3_HK2_2020\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\Entities.dll.config
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\Entities.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\Entities.pdb
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csproj.CopyComplete
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.dll
+E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.pdb

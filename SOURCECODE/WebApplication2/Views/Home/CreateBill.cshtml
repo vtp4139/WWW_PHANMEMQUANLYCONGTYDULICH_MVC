@@ -1,0 +1,69 @@
+﻿@model Entities.eTour
+
+@{
+    ViewBag.Title = "Đăng ký tour";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h3><span class="badge badge-primary">Đăng ký tour</span></h3>
+<br /><hr />
+@if (ViewBag.checkCreateBill == 1)
+{
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">Hoàn thành đăng ký tour !</h4>
+        <p>Cảm ơn quý khách đã tin dùng dịch vụ của chúng tôi, để hoàn thành thủ tục về hợp đồng tour mong quý khách hay đến trụ sở của chúng tôi tại:12 Nguyễn Văn Bảo, Phường 4, Gò Vấp, Hồ Chí Minh</p>
+        <hr>
+        <p class="mb-0">Nếu quý khách cần sự tư vấn, xin liên hệ về số máy: 0981234712. Chân thành cảm ơn !</p>
+    </div>
+    <p>
+        @Html.ActionLink("Quay trở lại trang chủ", "Index", "Home", new { @class = "btn btn-outline-primary" })
+    </p>
+}
+else
+{
+    <div class="alert alert-warning">
+        Xác nhận đăng ký tour
+    </div>
+    <h4><span class="badge badge-info">Thông tin tour</span></h4>
+    <div class="card mb-3">
+        <div class="card-header">
+            <h5>@Html.DisplayFor(modelItem => Model.tourName)</h5>
+        </div>
+        <div class="card-body">
+            <ul class="list-inline">
+                <li class="list-inline-item m-3"><b>Mã tour: </b>@Html.DisplayFor(modelItem => Model.tourID)</li>
+                <li class="list-inline-item m-3"><b>Ngày đi: </b>@Html.DisplayFor(modelItem => Model.departureDate)</li>
+                <li class="list-inline-item m-3"><b>Nơi khởi hành: </b>@Html.DisplayFor(modelItem => Model.startAddress)</li>
+            </ul>
+        </div>
+    </div>
+
+    <h4><span class="badge badge-success">Thông tin khách hàng</span></h4>
+    <div class="card mb-3">
+        <div class="card-header">
+            <h5>@ViewBag.Customer.customerName</h5>
+        </div>
+        <div class="card-body">
+            <ul class="list-inline">
+                <li class="list-inline-item m-3"><b>Mã khách hàng: </b>@ViewBag.Customer.customerID</li>
+                <li class="list-inline-item m-3"><b>Số CMND: </b>@ViewBag.Customer.IDCard</li>
+            </ul>
+            <ul class="list-inline">
+                <li class="list-inline-item m-3"><b>Số điện thoại: </b>@ViewBag.Customer.phone</li>
+                <li class="list-inline-item m-3"><b>Địa chỉ: </b>@ViewBag.Customer.address</li>
+            </ul>
+        </div>
+    </div>
+    <hr />
+    <!-- NÚT XỬ LÝ -->
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="Đặt tour" class="btn btn-outline-info" />
+        </div>
+    }
+}
+
+
+

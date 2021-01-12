@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Gửi phản hồi";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h3><span class="badge badge-success">GỬI PHẢN HỒI</span></h3>
+<hr />
+
+@if (ViewBag.checkFeedback == 1)
+{
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">Gửi phản hồi thành công</h4>
+        <p>Cảm ơn bạn đã gửi đóng góp của mình về website của chúng tôi. Những phản hồi của bạn là góp ý quý giá giúp chúng tôi ngày càng hoàn thiện hơn. Phản hồi của bạn sẽ được xem xét sớm nhất !</p>
+        <hr>
+        <p class="mb-0">@Html.ActionLink("Quay trở lại trang chủ", "Index", "Home", new { @class = "btn btn-outline-primary" })</p>
+    </div>
+}
+else
+{
+    using (Html.BeginForm())
+    {
+        <form>
+            <div class="form-group">
+                <label class="control-label" for="title"><b>Tiêu đề</b></label>
+                <input class="form-control" type="text" name="title" />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label" for="content"><b>Nội dung phản hồi:</b></label>
+                <textarea class="form-control" name="content" cols="70" rows="10"></textarea>
+            </div>
+            <input type="submit" class="btn btn-primary" />
+        </form>
+    }
+}
+

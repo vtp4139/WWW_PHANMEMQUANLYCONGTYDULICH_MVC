@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TourDatabaseModelStoreContainer" CdmEntityContainer="TourDatabaseEntities">
+    <EntitySetMapping Name="Tour">
+      <EntityTypeMapping TypeName="TourDatabaseModel.Tour">
+        <MappingFragment StoreEntitySet="Tour">
+          <ScalarProperty Name="tourName" ColumnName="tourName" />
+          <ScalarProperty Name="tourID" ColumnName="tourID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Account">
+      <EntityTypeMapping TypeName="TourDatabaseModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

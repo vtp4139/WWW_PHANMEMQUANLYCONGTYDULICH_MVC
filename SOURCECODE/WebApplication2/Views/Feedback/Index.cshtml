@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Entities.eFeedback>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h2><span class="badge badge-primary">QUẢN LÝ DANH SÁCH PHẢN HỒI</span></h2></br>
+<hr />
+
+@if (@ViewBag.error != null)
+{
+    <div class="alert alert-success">
+        <strong>@ViewBag.error</strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+    </br>
+<table class="table table-striped">
+    <tr>
+        <th>Mã đơn</th>
+        <th>Tên khách hàng</th>
+        <th>Tựa đề</th>
+        <th>Nội dung</th>
+        <th>Thời gian gửi</th>
+        <th>&nbsp;</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td scope="row">@Html.DisplayFor(modelItem => item.feedbackID)</td>
+        <td> @Html.DisplayFor(modelItem => item.Customer.customerName)</td>
+        <td> @Html.DisplayFor(modelItem => item.title)</td>
+        <td> @Html.DisplayFor(modelItem => item.content)</td>
+        <td> @Html.DisplayFor(modelItem => item.dateCreate)</td>
+        <td>
+            <span class="badge badge-info">@Html.ActionLink("Chi tiết", "Details", new { id = item.feedbackID }, new { @style = "color:white;" })</span>
+            <span class="badge badge-danger"> @Html.ActionLink("Xóa", "Delete", new { id = item.feedbackID }, new { @style = "color:white;" })</span>
+        </td>
+    </tr>
+    }
+</table>
+
+
+
+

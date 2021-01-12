@@ -1,0 +1,51 @@
+﻿@model Entities.eBill
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h3><span class="badge badge-info">CHI TIẾT HÓA ĐƠN</span></h3>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã hóa đơn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.billID)
+        </dd>
+
+        <dt>
+            Tên khách hàng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.customerName)
+        </dd>
+
+        <dt>
+            Tên tour đăng ký
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tour.tourName)
+        </dd>
+
+        <dt>
+            Thời gian đăng ký
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateCreate)
+        </dd>      
+    </dl>
+</div>
+<hr />
+<p>
+    @Html.ActionLink("← Quay trở lại danh sách tour", "Index")
+</p>
+
+

@@ -1,0 +1,83 @@
+﻿@model Entities.eTour
+
+@{
+    ViewBag.Title = "Chỉnh sửa tour";
+    Layout = "~/Views/Shared/Layout_Empty.cshtml";
+}
+
+<h3><span class="badge badge-primary">CHỈNH SỬA TOUR</span></h3>
+<hr />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<form>
+    
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.tourID)
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Tên tour:</b></label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.tourName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.tourName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Thời gian khởi hành:</b></label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.departureDate, new { @type = "date", htmlAttributes = new { @class = "form-control"} })
+            @Html.ValidationMessageFor(model => model.departureDate, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Thời gian đi (ngày):</b></label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.numberOfDay, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.numberOfDay, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Địa điểm khởi hành:</b></label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.startAddress, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.startAddress, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Giá tiền (VNĐ):</b></label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.price, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.price, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Số lượng:</b></label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.numSeat, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.numSeat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2"><b>Loại tour:</b></label>
+        <div class="col-md-10">
+            @Html.RadioButtonFor(model => model.tourType, true, new { htmlAttributes = new { @class = "form-control" } }) Trong nước &nbsp;
+            @Html.RadioButtonFor(model => model.tourType, false, new { htmlAttributes = new { @class = "form-control" } }) Nước ngoài
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button type="submit" class="btn btn-primary">Cập nhập</button>
+        </div>
+    </div>
+</form>
+}
+<hr />
+<div>
+    @Html.ActionLink("← Quay trở lại danh sách tour", "Index")
+</div>
