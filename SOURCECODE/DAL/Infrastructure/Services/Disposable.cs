@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace DAL.Infrastructure.Services
+namespace TourManager.DAL.Infrastructure.Services
 {
     public class Disposable : IDisposable
     {

@@ -1,7 +1,7 @@
-﻿using DAL.Infrastructure.Interfaces;
+﻿using TourManager.DAL.Infrastructure.Interfaces;
 using TourManager.Models;
 
-namespace DAL.Repositories.Interfaces
+namespace TourManager.DAL.Repositories.Interfaces
 {
     public interface ICustomerRepository : IRepository<Customer>
     {

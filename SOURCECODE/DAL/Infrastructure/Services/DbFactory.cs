@@ -1,6 +1,6 @@
-﻿using DAL.Infrastructure.Interfaces;
+﻿using TourManager.DAL.Infrastructure.Interfaces;
 
-namespace DAL.Infrastructure.Services
+namespace TourManager.DAL.Infrastructure.Services
 {
     public class DbFactory : Disposable, IDbFactory
     {

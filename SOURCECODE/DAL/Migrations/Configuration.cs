@@ -1,4 +1,4 @@
-﻿namespace DAL.Migrations
+﻿namespace TourManager.DAL.Migrations
 {
     using System;
     using System.Data.Entity;
@@ -15,23 +15,23 @@
         protected override void Seed(DAL.TourContext context)
         {
             context.Tours.AddOrUpdate(
-               t => t.tourID, AddData.getTours().ToArray());
+               t => t.ID, AddData.getTours().ToArray());
             context.SaveChanges();
 
             context.Customers.AddOrUpdate(
-                kh => kh.customerID, AddData.getCustomer().ToArray());
+                kh => kh.ID, AddData.getCustomer().ToArray());
             context.SaveChanges();
 
             context.Bills.AddOrUpdate(
-                emt => emt.billID, AddData.GetBills().ToArray());
+                emt => emt.ID, AddData.GetBills().ToArray());
             context.SaveChanges();
 
             context.Feedbacks.AddOrUpdate(
-                em => em.feedbackID, AddData.GetFeedbacks().ToArray());
+                em => em.ID, AddData.GetFeedbacks().ToArray());
             context.SaveChanges();
 
             context.Accounts.AddOrUpdate(
-                em => em.id, AddData.getAccounts().ToArray());
+                em => em.ID, AddData.getAccounts().ToArray());
             context.SaveChanges();
         }
     }

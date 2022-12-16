@@ -1,6 +1,6 @@
 ﻿using System.Data.Entity;
 using TourManager.Models;
-namespace DAL
+namespace TourManager.DAL
 {
     public class TourContext:DbContext
     {

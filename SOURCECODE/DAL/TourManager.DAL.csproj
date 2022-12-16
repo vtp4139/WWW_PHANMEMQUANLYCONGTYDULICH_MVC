@@ -54,12 +54,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountDAL.cs" />
     <Compile Include="AddData.cs" />
-    <Compile Include="BillDAL.cs" />
     <Compile Include="Configuration\AccountConfiguration.cs" />
-    <Compile Include="CustomerDAL.cs" />
-    <Compile Include="FeedbackDAL.cs" />
     <Compile Include="Infrastructure\Interfaces\IDbFactory.cs" />
     <Compile Include="Infrastructure\Interfaces\IRepository.cs" />
     <Compile Include="Infrastructure\Interfaces\IUnitOfWork.cs" />
@@ -67,13 +63,9 @@
     <Compile Include="Infrastructure\Services\Disposable.cs" />
     <Compile Include="Infrastructure\Services\RepositoryBase.cs" />
     <Compile Include="Infrastructure\Services\UnitOfWork.cs" />
-    <Compile Include="Migrations\202007071509331_Create_Database.cs" />
-    <Compile Include="Migrations\202007071509331_Create_Database.designer.cs">
-      <DependentUpon>202007071509331_Create_Database.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202007081757173_Update.cs" />
-    <Compile Include="Migrations\202007081757173_Update.designer.cs">
-      <DependentUpon>202007081757173_Update.cs</DependentUpon>
+    <Compile Include="Migrations\202212160841296_Update-All-Database.cs" />
+    <Compile Include="Migrations\202212160841296_Update-All-Database.designer.cs">
+      <DependentUpon>202212160841296_Update-All-Database.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Repositories\Interfaces\IFeedbackRepository.cs" />
@@ -87,7 +79,6 @@
     <Compile Include="Repositories\Services\FeedbackRepository.cs" />
     <Compile Include="Repositories\Services\TourRepository.cs" />
     <Compile Include="TourContext.cs" />
-    <Compile Include="TourDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -104,14 +95,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202007071509331_Create_Database.resx">
-      <DependentUpon>202007071509331_Create_Database.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202007081757173_Update.resx">
-      <DependentUpon>202007081757173_Update.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202212160841296_Update-All-Database.resx">
+      <DependentUpon>202212160841296_Update-All-Database.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

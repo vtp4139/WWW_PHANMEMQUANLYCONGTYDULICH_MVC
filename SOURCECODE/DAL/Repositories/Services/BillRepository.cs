@@ -1,9 +1,8 @@
-﻿using DAL.Infrastructure.Interfaces;
-using DAL.Infrastructure.Services;
-using DAL.Repositories.Interfaces;
+﻿using TourManager.DAL.Infrastructure.Interfaces;
+using TourManager.DAL.Repositories.Interfaces;
 using TourManager.Models;
 
-namespace DAL.Repositories.Services
+namespace TourManager.DAL.Infrastructure.Services
 {
     public class BillRepository : RepositoryBase<Bill>, IBillRepository
     {

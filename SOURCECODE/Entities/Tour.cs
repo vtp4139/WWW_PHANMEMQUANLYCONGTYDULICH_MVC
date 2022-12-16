@@ -12,10 +12,10 @@ namespace TourManager.Models
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
 
-        public string tourName { get; set; }
+        public string TourName { get; set; }
         [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime DepartureDate { get; set; }
-        public int MumberOfDay { get; set; }
+        public int NumberOfDay { get; set; }
         public string StartAddress { get; set; }
         [DisplayFormat(DataFormatString = "{0:C0}")]
         public double Price { get; set; }

@@ -1,11 +1,6 @@
-﻿using DAL.Infrastructure.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using TourManager.DAL.Infrastructure.Interfaces;
 
-namespace DAL.Infrastructure.Services
+namespace TourManager.DAL.Infrastructure.Services
 {
     public class UnitOfWork : IUnitOfWork
     {

@@ -1,8 +1,8 @@
-﻿using DAL.Infrastructure.Interfaces;
-using DAL.Infrastructure.Services;
+﻿using TourManager.DAL.Infrastructure.Interfaces;
+using TourManager.DAL.Infrastructure.Services;
 using TourManager.Models;
 
-namespace DAL.Repositories.Interfaces
+namespace TourManager.DAL.Repositories.Interfaces
 {
     public class TourRepository : RepositoryBase<Tour>, ITourRepository
     {

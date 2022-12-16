@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 
-namespace DAL.Infrastructure.Interfaces
+namespace TourManager.DAL.Infrastructure.Interfaces
 {
     public interface IRepository<T> where T : class
     {

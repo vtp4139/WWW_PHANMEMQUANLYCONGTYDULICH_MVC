@@ -322,9 +322,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BLL\BLL.csproj">
+    <ProjectReference Include="..\BLL\TourManager.BLL.csproj">
       <Project>{3a0ab8e6-494b-470a-b451-be8cf1d2e28c}</Project>
-      <Name>BLL</Name>
+      <Name>TourManager.BLL</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entities\TourManager.Models.csproj">
       <Project>{957cd6e2-b336-4801-9c41-a50500a25db9}</Project>

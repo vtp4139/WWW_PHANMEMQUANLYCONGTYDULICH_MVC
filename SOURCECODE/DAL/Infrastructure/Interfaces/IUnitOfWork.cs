@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Infrastructure.Interfaces
+namespace TourManager.DAL.Infrastructure.Interfaces
 {
     public interface IUnitOfWork
     {

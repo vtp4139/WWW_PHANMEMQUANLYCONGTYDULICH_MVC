@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourManager.Models", "Entit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourManager.DAL", "DAL\TourManager.DAL.csproj", "{04118E77-868E-4AE6-80B7-5D65D3BA6BED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{3A0AB8E6-494B-470A-B451-BE8CF1D2E28C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourManager.BLL", "BLL\TourManager.BLL.csproj", "{3A0AB8E6-494B-470A-B451-BE8CF1D2E28C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
