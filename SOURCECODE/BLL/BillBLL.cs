@@ -17,19 +17,19 @@ namespace BLL
             billDAL = new BillDAL();
         }
 
-        public void addBill(eBill e)
+        public void addBill(Bill e)
         {
            billDAL.addBill(e);
         }
-        public List<eBill> getAllBill()
+        public List<Bill> getAllBill()
         {
             return billDAL.getAllBill();
         }
-        public eBill findBill(int id)
+        public Bill findBill(int id)
         {
             return billDAL.findBill(id);
         }
-        public void deleteBill(eBill e)
+        public void deleteBill(Bill e)
         {
             billDAL.deleteBill(e);
         }

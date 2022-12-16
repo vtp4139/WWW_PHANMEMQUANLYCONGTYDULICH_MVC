@@ -17,36 +17,36 @@ namespace BLL
             tourDAL = new TourDAL();
         }
 
-        public List<eTour> getAll()
+        public List<Tour> getAll()
         {
             return tourDAL.getAll();
         }
 
-        public void addTour(eTour e)
+        public void addTour(Tour e)
         {
             tourDAL.addTour(e);
         }
-        public void deleteTour(eTour e)
+        public void deleteTour(Tour e)
         {
             tourDAL.deleteTour(e);
         }
-        public eTour findTour(int id)
+        public Tour findTour(int id)
         {
             return tourDAL.findTour(id);
         }
-        public void editTour(eTour tour)
+        public void editTour(Tour tour)
         {
             tourDAL.editTour(tour);
         }
-        public List<eTour> getAllTourInLand()
+        public List<Tour> getAllTourInLand()
         {
             return tourDAL.getAllTourInLand();
         }
-        public List<eTour> getAllTourAbroad()
+        public List<Tour> getAllTourAbroad()
         {
             return tourDAL.getAllTourAbroad();
         }
-        public List<eTour> searchTour(string Start, string price, string date)
+        public List<Tour> searchTour(string Start, string price, string date)
         {
             return tourDAL.searchTour(Start, price, date);
         }

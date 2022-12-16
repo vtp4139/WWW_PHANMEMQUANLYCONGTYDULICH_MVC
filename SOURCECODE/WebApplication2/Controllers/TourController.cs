@@ -27,7 +27,7 @@ namespace WebApplication2.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "tourName,departureDate,numberOfDay,startAddress,price,numSeat,emptySeat,tourType")] eTour tour)
+        public ActionResult Create([Bind(Include = "tourName,departureDate,numberOfDay,startAddress,price,numSeat,emptySeat,tourType")] Tour tour)
         {
             var fhinh = Request.Files[0];
             var path = Server.MapPath("~/Images/" + fhinh.FileName);
@@ -51,7 +51,7 @@ namespace WebApplication2.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            eTour tour = tourBLL.findTour(id);
+            Tour tour = tourBLL.findTour(id);
             if (tour == null)
             {
                 return HttpNotFound();
@@ -64,7 +64,7 @@ namespace WebApplication2.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            eTour tour = tourBLL.findTour(id);
+            Tour tour = tourBLL.findTour(id);
             tourBLL.deleteTour(tour);
             TempData["Message"] = "Xóa tour thành công !";
             return RedirectToAction("Index");
@@ -77,7 +77,7 @@ namespace WebApplication2.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            eTour tour = tourBLL.findTour(id);
+            Tour tour = tourBLL.findTour(id);
             if (tour == null)
             {
                 return HttpNotFound();
@@ -86,7 +86,7 @@ namespace WebApplication2.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "tourID,tourName,departureDate,numberOfDay,startAddress,price,numSeat,emptySeat,tourType")] eTour tour)
+        public ActionResult Edit([Bind(Include = "tourID,tourName,departureDate,numberOfDay,startAddress,price,numSeat,emptySeat,tourType")] Tour tour)
         {
             if (ModelState.IsValid)
             {
@@ -103,7 +103,7 @@ namespace WebApplication2.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            eTour tour = tourBLL.findTour(id);
+            Tour tour = tourBLL.findTour(id);
             if (tour == null)
             {
                 return HttpNotFound();

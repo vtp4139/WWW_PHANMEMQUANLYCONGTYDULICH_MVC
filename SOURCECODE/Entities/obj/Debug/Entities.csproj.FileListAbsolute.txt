@@ -58,3 +58,15 @@ E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\
 E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.csproj.CopyComplete
 E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.dll
 E:\Tài Liệu\Năm 3 - HKII (2019 - 2020)\WWW\LTWWW_DHKTPM13B_BAITAPLON_NHOM02\SOURCECODE\Entities\obj\Debug\Entities.pdb
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\Entities.dll.config
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\Entities.dll
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\Entities.pdb
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\EntityFramework.dll
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\EntityFramework.xml
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\obj\Debug\Entities.csproj.CopyComplete
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\obj\Debug\Entities.dll
+E:\VS Projects\WWW_PHANMEMQUANLYCONGTYDULICH_MVC\SOURCECODE\Entities\obj\Debug\Entities.pdb

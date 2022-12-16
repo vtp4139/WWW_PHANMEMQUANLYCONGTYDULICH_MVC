@@ -14,14 +14,14 @@ namespace DAL
         {
             db = new TourContext();
         }
-        public eAccount IsAccount(string id, string pass)
+        public Account IsAccount(string id, string pass)
         {
-            eAccount a = db.Accounts.Where(s => s.id == id && s.password == pass).FirstOrDefault();
+            Account a = db.Accounts.Where(s => s.id == id && s.password == pass).FirstOrDefault();
             if (a != null)
                 return a;
             return null;
         }
-        public void addAccount(eAccount e)
+        public void addAccount(Account e)
         {
             db.Accounts.Add(e);
             db.SaveChanges();

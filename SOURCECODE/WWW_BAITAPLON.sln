@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "WebApplication2\GUI.csproj", "{4E3015B1-4BD9-4908-AE4A-7985D1281304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{957CD6E2-B336-4801-9C41-A50500A25DB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourManager.Models", "Entities\TourManager.Models.csproj", "{957CD6E2-B336-4801-9C41-A50500A25DB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{04118E77-868E-4AE6-80B7-5D65D3BA6BED}"
 EndProject

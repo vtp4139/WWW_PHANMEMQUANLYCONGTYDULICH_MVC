@@ -16,11 +16,11 @@ namespace BLL
         {
             accountDAL = new AccountDAL();
         }
-        public eAccount IsAccount(string id, string pass)
+        public Account IsAccount(string id, string pass)
         {
             return accountDAL.IsAccount(id, pass);
         }
-        public void addAccount(eAccount e)
+        public void addAccount(Account e)
         {
             accountDAL.addAccount(e);
         }

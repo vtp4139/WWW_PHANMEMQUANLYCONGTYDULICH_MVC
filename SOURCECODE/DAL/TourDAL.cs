@@ -17,48 +17,48 @@ namespace DAL
             db = new TourContext();
         }
 
-        public List<eTour> getAll()
+        public List<Tour> getAll()
         {           
             return db.Tours.ToList();
         }
 
-        public List<eTour> getAllTourInLand()
+        public List<Tour> getAllTourInLand()
         {
             return db.Tours.Where(p => p.tourType == true).ToList();
         }
 
-        public List<eTour> getAllTourAbroad()
+        public List<Tour> getAllTourAbroad()
         {
             return db.Tours.Where(p => p.tourType == false).ToList();
         }
 
-        public void addTour(eTour e)
+        public void addTour(Tour e)
         {
             db.Tours.Add(e);
             db.SaveChanges();
         }
-        public void deleteTour(eTour e)
+        public void deleteTour(Tour e)
         {
             db.Tours.Remove(e);
             db.SaveChanges();
         }
-        public eTour findTour(int id)
+        public Tour findTour(int id)
         {
-            eTour tour = db.Tours.Find(id);
+            Tour tour = db.Tours.Find(id);
             return tour;
         }
-        public void editTour(eTour tour)
+        public void editTour(Tour tour)
         {
             db.Entry(tour).State = EntityState.Modified;
             db.SaveChanges();
         }
 
         //TÌM KIẾM
-        public List<eTour> searchTour(string Start, string price, string date)
+        public List<Tour> searchTour(string Start, string price, string date)
         {
             double a = 0;
             double z = 0;
-            List<eTour> list = new List<eTour>();
+            List<Tour> list = new List<Tour>();
 
             if(price == "1")
             {

@@ -72,7 +72,7 @@ namespace WebApplication2.Controllers
                 address = e.address,
             };
 
-            eTour tour = tourBLL.findTour(id);
+            Tour tour = tourBLL.findTour(id);
             Session["tourID"] = tour.tourID;
             if (tour == null)
             {
@@ -85,7 +85,7 @@ namespace WebApplication2.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult CreateBill()
         {
-            eBill b = new eBill();
+            Bill b = new Bill();
 
             b.dateCreate = DateTime.Now;
             b.tourID = int.Parse(Session["tourID"].ToString());
@@ -93,7 +93,7 @@ namespace WebApplication2.Controllers
 
             billBLL.addBill(b);
 
-            eTour e = tourBLL.findTour(int.Parse(Session["tourID"].ToString()));
+            Tour e = tourBLL.findTour(int.Parse(Session["tourID"].ToString()));
             e.emptySeat--;
             tourBLL.editTour(e);
 
@@ -132,7 +132,7 @@ namespace WebApplication2.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            eTour tour = tourBLL.findTour(id);
+            Tour tour = tourBLL.findTour(id);
             if (tour == null)
             {
                 return HttpNotFound();
@@ -143,7 +143,7 @@ namespace WebApplication2.Controllers
         [HttpPost]
         public ActionResult Search(FormCollection f)
         {
-            List<eTour> lst = tourBLL.searchTour(f["StartAddress"], f["Price"], f["date"]);
+            List<Tour> lst = tourBLL.searchTour(f["StartAddress"], f["Price"], f["date"]);
 
             ViewBag.Count = lst.Count;
 
@@ -160,7 +160,7 @@ namespace WebApplication2.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(eAccount c)
+        public ActionResult Login(Account c)
         {
             if (c.id == "admin" && c.password == "123")
             {
@@ -169,7 +169,7 @@ namespace WebApplication2.Controllers
             }
             if (ModelState.IsValid)
             {
-                eAccount result = accountBLL.IsAccount(c.id, c.password);
+                Account result = accountBLL.IsAccount(c.id, c.password);
                 if (result != null)
                 {
                     //add session
@@ -203,7 +203,7 @@ namespace WebApplication2.Controllers
             c.address = f["Address"];
             cusBLL.addCustomer(c);
 
-            eAccount e = new eAccount();
+            Account e = new Account();
             e.id = f["idAccount"];
             e.password = f["password"];
             e.customerID = c.customerID;

@@ -27,7 +27,7 @@ namespace WebApplication2.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
 
-            eBill bill = billDLL.findBill(id);
+            Bill bill = billDLL.findBill(id);
             if (bill == null)
             {
                 return HttpNotFound();
@@ -39,7 +39,7 @@ namespace WebApplication2.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            eBill bill = billDLL.findBill(id);
+            Bill bill = billDLL.findBill(id);
             billDLL.deleteBill(bill);
             TempData["Message"] = "Xóa hóa đơn thành công !";
             return RedirectToAction("Index");
@@ -52,7 +52,7 @@ namespace WebApplication2.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            eBill bill = billDLL.findBill(id);
+            Bill bill = billDLL.findBill(id);
 
             if (bill == null)
             {
