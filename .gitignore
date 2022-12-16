@@ -249,3 +249,7 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+#My own folder
+DAL/bin/*
+BLL/bin/*

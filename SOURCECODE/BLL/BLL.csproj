@@ -50,9 +50,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DAL\DAL.csproj">
+    <ProjectReference Include="..\DAL\TourManager.DAL.csproj">
       <Project>{04118e77-868e-4ae6-80b7-5d65d3ba6bed}</Project>
-      <Name>DAL</Name>
+      <Name>TourManager.DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entities\TourManager.Models.csproj">
       <Project>{957cd6e2-b336-4801-9c41-a50500a25db9}</Project>
